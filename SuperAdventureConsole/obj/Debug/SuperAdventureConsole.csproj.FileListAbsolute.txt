@@ -1,0 +1,10 @@
+F:\VS 2019 Solutions\SuperAdventure\SuperAdventureConsole\bin\Debug\SuperAdventureConsole.exe.config
+F:\VS 2019 Solutions\SuperAdventure\SuperAdventureConsole\bin\Debug\SuperAdventureConsole.exe
+F:\VS 2019 Solutions\SuperAdventure\SuperAdventureConsole\bin\Debug\SuperAdventureConsole.pdb
+F:\VS 2019 Solutions\SuperAdventure\SuperAdventureConsole\bin\Debug\NewEngine.dll
+F:\VS 2019 Solutions\SuperAdventure\SuperAdventureConsole\bin\Debug\NewEngine.pdb
+F:\VS 2019 Solutions\SuperAdventure\SuperAdventureConsole\obj\Debug\SuperAdventureConsole.csprojAssemblyReference.cache
+F:\VS 2019 Solutions\SuperAdventure\SuperAdventureConsole\obj\Debug\SuperAdventureConsole.csproj.CoreCompileInputs.cache
+F:\VS 2019 Solutions\SuperAdventure\SuperAdventureConsole\obj\Debug\SuperAdventureConsole.csproj.CopyComplete
+F:\VS 2019 Solutions\SuperAdventure\SuperAdventureConsole\obj\Debug\SuperAdventureConsole.exe
+F:\VS 2019 Solutions\SuperAdventure\SuperAdventureConsole\obj\Debug\SuperAdventureConsole.pdb

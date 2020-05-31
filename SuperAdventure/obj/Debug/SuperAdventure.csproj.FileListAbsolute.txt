@@ -1,0 +1,14 @@
+F:\VS 2019 Solutions\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+F:\VS 2019 Solutions\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+F:\VS 2019 Solutions\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+F:\VS 2019 Solutions\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csprojAssemblyReference.cache
+F:\VS 2019 Solutions\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
+F:\VS 2019 Solutions\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+F:\VS 2019 Solutions\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.cache
+F:\VS 2019 Solutions\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.CoreCompileInputs.cache
+F:\VS 2019 Solutions\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.CopyComplete
+F:\VS 2019 Solutions\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+F:\VS 2019 Solutions\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
+F:\VS 2019 Solutions\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.TradingScreen.resources
+F:\VS 2019 Solutions\SuperAdventure\SuperAdventure\bin\Debug\NewEngine.dll
+F:\VS 2019 Solutions\SuperAdventure\SuperAdventure\bin\Debug\NewEngine.pdb

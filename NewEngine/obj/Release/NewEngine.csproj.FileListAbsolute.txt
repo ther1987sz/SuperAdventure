@@ -1,0 +1,5 @@
+F:\VS 2019 Solutions\SuperAdventure\NewEngine\bin\Release\NewEngine.dll
+F:\VS 2019 Solutions\SuperAdventure\NewEngine\bin\Release\NewEngine.pdb
+F:\VS 2019 Solutions\SuperAdventure\NewEngine\obj\Release\NewEngine.csproj.CoreCompileInputs.cache
+F:\VS 2019 Solutions\SuperAdventure\NewEngine\obj\Release\NewEngine.dll
+F:\VS 2019 Solutions\SuperAdventure\NewEngine\obj\Release\NewEngine.pdb

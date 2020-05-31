@@ -1,0 +1,9 @@
+F:\VS 2019 Solutions\SuperAdventure\Engine\bin\Debug\netstandard2.0\Engine.deps.json
+F:\VS 2019 Solutions\SuperAdventure\Engine\bin\Debug\netstandard2.0\Engine.dll
+F:\VS 2019 Solutions\SuperAdventure\Engine\bin\Debug\netstandard2.0\Engine.pdb
+F:\VS 2019 Solutions\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.csprojAssemblyReference.cache
+F:\VS 2019 Solutions\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfoInputs.cache
+F:\VS 2019 Solutions\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfo.cs
+F:\VS 2019 Solutions\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.dll
+F:\VS 2019 Solutions\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.pdb
+F:\VS 2019 Solutions\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.csproj.CoreCompileInputs.cache
